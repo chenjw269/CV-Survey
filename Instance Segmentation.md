@@ -6,11 +6,18 @@ __Instance Segmentation__ is a computer vision task that involves identifying an
 
 ## Datasets
 
+### Outdoor
+
 - [COCO (Microsoft Common Objects in Context)](https://cocodataset.org/#home)
 - [Cityscapes](https://www.cityscapes-dataset.com/dataset-overview/)
 - [nuScenes](https://www.nuscenes.org/)
 - [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
+
+### Indoor
+
 - [NYUv2 (NYU-Depth V2)](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+- [PASCAL-Context](https://cs.stanford.edu/~roozbeh/pascal-context/)
+- [S3DIS](http://buildingparser.stanford.edu/dataset.html)
 
 ## Benchmarks
 
